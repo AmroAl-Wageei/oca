@@ -1,2 +1,0 @@
-# oca
-Orange Coding Academy
